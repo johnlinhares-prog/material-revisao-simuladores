@@ -1,0 +1,10 @@
+﻿Código,Título,Critério,Motivo da exclusão
+S1-05,Ensino Desplugado de Arduino e Internet das Coisas: uma proposta de atividade para a Educação Básica,CE1,"A ""simulação"" é feita com cartões impressos, sem simulador digital."
+S1-16,Using the Arduino as Disclosure Tool Nuclear Area,CE1,"O simulador do reator nuclear é uma maquete física construída com Arduino, para divulgação científica."
+S1-21,Experimentação Remota e Simulações 3D aplicadas ao estudo da propagação das ondas eletromagnéticas por meio da Aprendizagem Baseada em Projetos,CE2,"A simulação trata da propagação de raios X (ondas eletromagnéticas), não de circuitos."
+S1-51,LabEAD: Laboratório Eletrônico de Ensino à Distância durante o Distanciamento Social,CE1,Laboratório remoto com hardware real; simuladores são apenas comparados como alternativa.
+S2-04,Aplicação de elemento de game design sociointerativo em simulações de código aberto do projeto PhET,CE2,A simulação PhET usada trata de equilíbrio e torque (mecânica).
+S2-23,Robótica Educacional: Construindo um Trânsito Seguro,CE3,Tinkercad usado apenas para modelagem 3D; robôs físicos.
+S1-30,Programming Teaching using Arduino and TinkerCad Circuits - Proposal of a Lesson Sequence,CE5,Texto completo indisponível: a SOL disponibiliza apenas os metadados.
+S1-44,Developmental Enhancement and Application of a Low-Cost Educational Robotics Kit: A Case Study Validation with a University Competition,CE5,Texto completo indisponível: a SOL disponibiliza apenas os metadados.
+S2-07,Robotics Club Students Create Interactive Model of Ilse Teske Sculpture Park,CE5,Texto completo indisponível: a SOL disponibiliza apenas os metadados.
